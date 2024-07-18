@@ -18,7 +18,7 @@ function ProductList() {
       [product.name]: true,
     }));
   };
-  console.log(showPlants);
+  console.log(showPlants, 1);
   const plantsArray = [
     {
       category: "Air Purifying Plants",
